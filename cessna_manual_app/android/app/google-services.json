@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "362139940944",
+    "project_id": "cessna-manual-app",
+    "storage_bucket": "cessna-manual-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362139940944:android:33564d9fe4285fca61b955",
+        "android_client_info": {
+          "package_name": "com.example.cessna_manual_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362139940944-c7l1abcqph229mdl59tle0a4kvn569lv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cessna_manual_app",
+            "certificate_hash": "3a1a4ddae2647f8ef80a27a7479e79de1e60131e"
+          }
+        },
+        {
+          "client_id": "362139940944-14ps1k8um4vt88pcf389dua70ea31qlu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ-xgqHmrhtMbvmoLBudTcLMw_4uTPmxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362139940944-14ps1k8um4vt88pcf389dua70ea31qlu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
